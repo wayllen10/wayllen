@@ -1,0 +1,4 @@
+streamlit
+matplotlib
+websockets==11.0.3
+streamlit-authenticator
