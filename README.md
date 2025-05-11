@@ -1,1 +1,4 @@
-# wayllen
+streamlit
+matplotlib
+websockets
+streamlit-authenticator
